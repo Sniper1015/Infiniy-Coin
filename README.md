@@ -1,2 +1,0 @@
-# Infiniy-Coin
-Cryptocurrency
